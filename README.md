@@ -14,7 +14,7 @@
 ## Contents
 1. [CROSS Evaluation Benchmark](#cross-evaluation-benchmark)
 2. [CROSS‑Eval Metrics](#cross‑eval-metrics)
-3. [Quick‑Start (OpenAI models)](#quick‑start-openai-models)
+3. [Quick‑Start](#quick‑start-openai-models)
 4. [Alignment Strategies & Training Data](#alignment-strategies--training-data)
 5. [Citation](#citation)
 6. [Disclaimer](#disclaimer)
@@ -47,7 +47,7 @@ CROSS‑Eval reports four dimensions of culturally safe reasoning:
 Metric implementations are in `code/evaluation_.py`.
 
 
-## 🔧 Quick‑Start (OpenAI models)
+## 🔧 Quick‑Start
 
 We provide generation & evaluation pipelines for GPT‑4o and compatible OpenAI vision‑language models.
 
