@@ -1,9 +1,14 @@
 # 🖼️ Multimodal Cultural Safety: Evaluation Frameworks & Alignment Strategies  
 
-**Haoyi Qiu · Kung‑Hsiang Huang · Ruichen Zheng · Jiao Sun · Nanyun Peng**  
-UCLA · Salesforce AI Research · Google DeepMind  
-
-[![Paper – arXiv](https://img.shields.io/badge/Paper-arXiv-orange)]()
+<div align="center">
+  <b>
+    Haoyi Qiu<sup>1</sup>, Kung‑Hsiang Huang<sup>2</sup>, Ruichen Zheng<sup>1</sup>, Jiao Sun<sup>3</sup>, Nanyun Peng<sup>1</sup>
+  </b>
+  <br>
+  <sup>1</sup>UCLA, <sup>2</sup>Salesforce AI Research, <sup>3</sup>Google DeepMind
+  <br><br>
+  <a href="#"><img src="https://img.shields.io/badge/Paper-arXiv-orange"></a>
+</div>
 
 
 ## Contents
