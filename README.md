@@ -79,7 +79,7 @@ data/
 | `safety_sft`    | ✔️                | —                          |
 | `safety_dpo`    | ✔️                | ✔️ (unsafe)                |
 
-Training scripts for GPT‑4o are in `code/gpt4o_tuning/`.  
+Training scripts for GPT‑4o are in `code/gpt4o_tuning.ipynb`.  
 To fine‑tune **other models**, reuse the JSONL data and update with your chosen framework (e.g., vllm).
 
 
