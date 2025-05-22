@@ -88,11 +88,11 @@ To fine‑tune **other models**, reuse the JSONL data and update with your chose
 If you use CROSS, CROSS‑Eval, or our alignment data, please cite:
 
 ```bibtex
-@inproceedings{qiu2024cross,
+@article{qiu2025cross,
   title     = {Multimodal Cultural Safety: Evaluation Frameworks and Alignment Strategies},
   author    = {Qiu, Haoyi and Huang, Kung-Hsiang and Zheng, Ruichen and Sun, Jiao and Peng, Nanyun},
-  year      = {2024},
-  booktitle = {arXiv preprint arXiv:2412.06483}
+  year      = {2025},
+  journal = {arXiv preprint arXiv:2505.14972}
 }
 ```
 
