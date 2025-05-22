@@ -7,7 +7,7 @@
   <br>
   <sup>1</sup>UCLA, <sup>2</sup>Salesforce AI Research, <sup>3</sup>Google DeepMind
   <br><br>
-  <a href="#"><img src="https://img.shields.io/badge/Paper-arXiv-orange"></a>
+  <a href="https://arxiv.org/pdf/2505.14972"><img src="https://img.shields.io/badge/Paper-arXiv-orange"></a>
 </div>
 
 
